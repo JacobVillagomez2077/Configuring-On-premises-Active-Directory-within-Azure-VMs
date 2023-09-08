@@ -1497,6 +1497,6 @@ You can also right click the user you picked and click reset password, or even d
 <img src="https://github.com/Jacobvillagomez1/Configuring-On-premises-Active-Directory-within-Azure-VMs/assets/143027686/39a34abc-ab16-4bb4-a6d7-f668f6662af6"/>
 </p>
 <p>
-Now to see Lab 6 https://github.com/Jacobvillagomez1/Create-Inspect-and-Delete-DNS-A-Records-and-CNAME and Lab 7 https://github.com/Jacobvillagomez1/Network-File-Shares-and-Permissions 
+Now to see Lab 6 https://github.com/JacobVillagomez2077/Create-Inspect-and-Delete-DNS-A-Records-and-CNAME and Lab 7 https://github.com/JacobVillagomez2077/Network-File-Shares-and-Permissions
 </p>
 <br />
